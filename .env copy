@@ -1,0 +1,6 @@
+PORT = 5000
+<<<<<<< HEAD
+URI = mongodb//localhost:27017/laboratorio
+=======
+URI = mongodb://localhost:27017/laboratorio
+>>>>>>> 509d4210a8629e6a36a5381f325a74c57abfcb2b
